@@ -1,11 +1,9 @@
 # Wireframes
 
-![Home Page](wireframes/HomePage.png)
+![]()
+![]()
+![]()
 
-![Map Page](wireframes/MapPage.png)
+---
 
-![About Us Page](wireframes/AboutUs.png)
-
-_____
-
-[Home](https://projectsandwich.github.io/301-ProjectPlanning/)
+[Home](/Users/mistidinzy/Desktop/deltav/401/Projects/midterm/401-Midterm-Planning/README.md)

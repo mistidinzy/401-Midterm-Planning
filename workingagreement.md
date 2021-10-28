@@ -9,18 +9,6 @@ _____
 Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 
 * What are the key strengths of each person on the team?
-  
-  Susan
-  * Visually-oriented; Eye for aesthetically pleasing design.
-  * Flexible, open-minded.
-
-  Ian
-  * Great communication.
-  * Reliable team-player.
-
-  Misti
-  * Organized; Good project management.
-  * Staying on task, focused.
 
 * Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
   * Commit to strong communication
@@ -71,11 +59,11 @@ Plan out what your team’s Git workflow looks like for coding tasks.
 *Describe at least:*
 
 * What components of your project will live on GitHub?
-  > Frontend & Backend Repo(s).
+  >
 * How will you share the repository with your teammates?
-  > Add as collaborators.
+  >
 * What is your Git flow?
-  > Work on branches.
+  >
 * Will you be using a PR review workflow?
   > Yes.
 * How many people must review a PR?

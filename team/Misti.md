@@ -4,4 +4,4 @@
 
 ![Misti](/images/Misti.jpeg)
 
-[Home](https://projectsandwich.github.io/301-ProjectPlanning/)
+[Home]()
