@@ -1,4 +1,4 @@
-# 301 - Project Sandwich - September 2021
+# 401 - Midterm Project - November 2021
 
 ### ***[Ian Whitmore](Ian.md) &middot; [Jaren Schnoebelen](Jaren.md) &middot; [Yvette Clapp](Yvette.md) &middot; [Misti Dinzy](Misti.md)***
 
